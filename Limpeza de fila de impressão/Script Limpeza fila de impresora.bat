@@ -27,3 +27,4 @@ echo Serviço de spooler de impressão reiniciado.
 echo.
 echo Fila de impressão limpa com sucesso.
 pause
+
